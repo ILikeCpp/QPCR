@@ -1,0 +1,63 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Initializing.qml</file>
+        <file>PowerOnSelfTest.qml</file>
+        <file>MainForm.qml</file>
+        <file>SampleAnalysis/SampleAnalysis.qml</file>
+        <file>QualityControl/QualityControl.qml</file>
+        <file>ReviewResult/ReviewResult.qml</file>
+        <file>Service/Service.qml</file>
+        <file>Setting/Setting.qml</file>
+        <file>JSFunction.js</file>
+        <file>FileMgr/FileMgr.qml</file>
+    </qresource>
+    <qresource prefix="/common">
+        <file>commonUI/Busying.qml</file>
+        <file>commonUI/YLBButton.qml</file>
+        <file>commonUI/YLBText.qml</file>
+        <file>commonUI/WholeCover.qml</file>
+        <file>commonUI/YLBCheckBox.qml</file>
+        <file>commonUI/MessageBox.qml</file>
+        <file>commonUI/TopMessage.qml</file>
+        <file>commonUI/MenuButton.qml</file>
+        <file>commonUI/YLBInput.qml</file>
+        <file>commonUI/YLBInput1.qml</file>
+        <file>commonUI/YLBComboBox.qml</file>
+        <file>commonUI/MyToolButton.qml</file>
+        <file>commonUI/MyRadioButton.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>image/login/checked.png</file>
+        <file>image/login/del.png</file>
+        <file>image/login/down.png</file>
+        <file>image/login/invisible.png</file>
+        <file>image/login/password.png</file>
+        <file>image/login/unchecked.png</file>
+        <file>image/login/user.png</file>
+        <file>image/login/visible.png</file>
+        <file>image/login/load.png</file>
+        <file>image/menu/fw.ico</file>
+        <file>image/menu/sz.ico</file>
+        <file>image/menu/ybfx.ico</file>
+        <file>image/menu/jz.png</file>
+        <file>image/menu/lbhg.png</file>
+        <file>image/menu/zk.png</file>
+        <file>image/menu/usb.png</file>
+        <file>image/grayDown.png</file>
+        <file>image/doubleArrow.png</file>
+        <file>image/leftArrow.png</file>
+        <file>image/rightArrow.png</file>
+        <file>image/wifino.png</file>
+        <file>image/wifiok.png</file>
+        <file>image/menu/indicator.png</file>
+        <file>image/statusBar.png</file>
+        <file>image/mainForm.png</file>
+        <file>image/menu/shuxing.png</file>
+        <file>image/menu/yangben.png</file>
+        <file>image/menu/chengxu.png</file>
+        <file>image/menu/quxian.png</file>
+        <file>image/menu/shuju.png</file>
+        <file>image/menu/wenjian.png</file>
+    </qresource>
+</RCC>
